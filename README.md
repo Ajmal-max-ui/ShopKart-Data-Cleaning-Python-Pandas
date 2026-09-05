@@ -1,6 +1,6 @@
 # ShopKart-Data-Cleaning-Python-Pandas
 
-Cleaned and prepared e-commerce order data using Python and Pandas for further analysis and visualization.
+Cleaned and prepared e-commerce order data using Python and Pandas for further analysis and visualization. <br>
 • Identified and handled missing values <br>
 • Removed duplicate records <br>
 • Standardized inconsistent categories and text values <br>
